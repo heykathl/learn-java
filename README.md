@@ -1,4 +1,4 @@
-# Learn JJava Fundamentals
+# Learn Java Fundamentals
 
 Write and execute basic Java programs, using types and writing tests using JUnit; and build a more complex program (a CLI game) using object-oriented Java features.
 
